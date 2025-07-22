@@ -134,3 +134,4 @@ wheel==0.45.1
 wrapt==1.17.2
 xmltodict==0.14.2
 SQLAlchemy==2.0.37
+sentence-transformers==2.6.1
