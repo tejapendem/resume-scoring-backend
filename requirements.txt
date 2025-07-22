@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sentence-transformers
+scikit-learn
+python-multipart
+pdfplumber
+python-docx
+python-jose
+passlib[bcrypt]
+numpy==1.26.4
